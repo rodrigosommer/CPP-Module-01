@@ -1,0 +1,5 @@
+Hello world! This is a test file.
+Hello there, how are you doing?
+The word hi appears multiple times.
+HELLO should not be replaced (case sensitive).
+hi hi hi - multiple occurrences in one line.
